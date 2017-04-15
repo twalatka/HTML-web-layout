@@ -1,0 +1,20 @@
+logo-clr: #ffc01f;
+helio-gry: #3a393a;
+content-clr: #cdcdcd;
+header-clr: #fff;
+card-clr: #545353;
+
+ {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+img:not([src^='https://heliotraining.com']){
+  max-width: 235px;
+}
+html {
+  background-color: helio-gry;
+}
+.page-wrap {
+  width: 960px;
+  margin: 0 auto;
+}

@@ -1,1 +1,0 @@
-To demonstrate ability to use HTML and CSS to display a static web page on a server.
